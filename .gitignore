@@ -1,4 +1,4 @@
-*.json
+# *.json
 screenshot.py
 machine_learning_for digit test.py
 machine_learning_for digit.py
@@ -7,3 +7,5 @@ test.py
 get_memory.py
 dataset/
 dataset-origin/
+data.json
+sample.json
